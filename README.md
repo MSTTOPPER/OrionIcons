@@ -31,3 +31,7 @@ rbxassetid://138136042945432
 ```lua
 rbxassetid://111831192015817
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Exetion.png)
+```lua
+rbxassetid://95701270570812
+```
