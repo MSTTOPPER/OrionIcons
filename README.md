@@ -23,3 +23,7 @@ rbxassetid://116143062361926
 ```lua
 rbxassetid://127476237928164
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Coins.png)
+```lua
+rbxassetid://138136042945432
+```
