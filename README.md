@@ -1,3 +1,3 @@
 # OrionIcons
 For orion lib
-![Thread](https://user-images.githubusercontent.com/77512805/164973978-31f19af4-528a-4af0-9ba8-21bc22e668ef.png)
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Crosshairs.png)
