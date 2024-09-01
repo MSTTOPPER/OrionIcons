@@ -35,3 +35,15 @@ rbxassetid://111831192015817
 ```lua
 rbxassetid://95701270570812
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Cloud.png)
+```lua
+rbxassetid://125191959701753
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Cloud-Allert.png)
+```lua
+rbxassetid://113947688798335
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Cloud-Check.png)
+```lua
+rbxassetid://104047019279501
+```
