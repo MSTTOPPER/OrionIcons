@@ -11,3 +11,11 @@ rbxassetid://72755181897367
 ```lua
 rbxassetid://104945838203680
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Eye.png)
+```lua
+rbxassetid://74746779285057
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Creation.png)
+```lua
+rbxassetid://116143062361926
+```
