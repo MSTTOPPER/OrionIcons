@@ -47,3 +47,15 @@ rbxassetid://113947688798335
 ```lua
 rbxassetid://104047019279501
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Cube-Scan.png)
+```lua
+rbxassetid://133193931224521
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Globe.png)
+```lua
+rbxassetid://131668282320032
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Apps.png)
+```lua
+rbxassetid://126847572948896
+```
