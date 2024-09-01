@@ -63,9 +63,9 @@ rbxassetid://126847572948896
 ```lua
 rbxassetid://112984830044316
 ```
-![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Verify.png)
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Layers.png)
 ```lua
-rbxassetid://112984830044316
+rbxassetid://138215982025121
 ```
 ![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Internet.png)
 ```lua
@@ -74,4 +74,12 @@ rbxassetid://122074956776967
 ![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Copiright.png)
 ```lua
 rbxassetid://119000862077453
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Off.png)
+```lua
+rbxassetid://111890594617223
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/On.png)
+```lua
+rbxassetid://94358475953137
 ```
