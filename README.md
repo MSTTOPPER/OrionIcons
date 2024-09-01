@@ -7,7 +7,7 @@ rbxassetid://100506447023576
 ```lua
 rbxassetid://72755181897367
 ```
-![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/User.png)
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Face.png)
 ```lua
 rbxassetid://104945838203680
 ```
