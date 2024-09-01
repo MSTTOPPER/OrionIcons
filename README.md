@@ -83,3 +83,11 @@ rbxassetid://111890594617223
 ```lua
 rbxassetid://94358475953137
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Equalizer.png)
+```lua
+rbxassetid://89301051446579
+```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/Inf.png)
+```lua
+rbxassetid://123560376764788
+```
