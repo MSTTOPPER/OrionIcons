@@ -19,3 +19,7 @@ rbxassetid://74746779285057
 ```lua
 rbxassetid://116143062361926
 ```
+![Thread](https://github.com/MSTTOPPER/OrionIcons/blob/main/Icons/OneSetting.png)
+```lua
+rbxassetid://127476237928164
+```
